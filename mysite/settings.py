@@ -25,7 +25,7 @@ SECRET_KEY = 'hd3j^0*ss2i1r5233$w!xz!_+&023@l$b#@0lwb1!d=z+=x(kt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dotidrop.herokuapp.com', '.pythonanywhere.com']
 
 
 # Application definition
