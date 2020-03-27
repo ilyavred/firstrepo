@@ -4,6 +4,6 @@ __pycache__
 vredvenv
 db.sqlite3
 /static
-local_settings.py
+/mysite/local_settings.py
 .DS_Store
 /postgresql/
