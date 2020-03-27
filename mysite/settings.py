@@ -27,7 +27,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ['dotidrop.herokuapp.com']
 
-ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
